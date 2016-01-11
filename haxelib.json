@@ -1,0 +1,21 @@
+{
+	"name": "webdriver.js",
+	"license": "MIT",
+	"tags": [
+		"js",
+		"utility",
+		"test",
+		"selenium",
+		"webdriver"
+	],
+	"classPath": "src",
+	"description": "Externs for selenium webdriver JS API",
+	"contributors": [
+		"back2dos"
+	],
+	"releasenote": "Remove extraneous file.",
+	"version": "0.0.0",
+	"url": "http://github.com/back2dos/webdriver.js",
+	"dependencies": {
+	}
+}
