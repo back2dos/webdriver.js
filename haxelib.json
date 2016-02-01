@@ -13,8 +13,8 @@
 	"contributors": [
 		"back2dos"
 	],
-	"releasenote": "Add when to promise.",
-	"version": "0.0.1",
+	"releasenote": "Remove webdriver interface at runtime.",
+	"version": "0.0.2",
 	"url": "http://github.com/back2dos/webdriver.js",
 	"dependencies": {
 		"tink_core": ""
