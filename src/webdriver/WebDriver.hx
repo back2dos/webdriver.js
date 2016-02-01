@@ -2,6 +2,7 @@ package webdriver;
 
 using tink.CoreApi;
 
+@:remove
 extern interface WebDriver {
 
   //function setFileDetector(detector: FileDetector): Void;
